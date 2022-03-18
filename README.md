@@ -1,3 +1,3 @@
 # AlgorithmsAndDataStructures
 Implementation of common algorithms and data structures.
-See main concepts: https://docs.google.com/spreadsheets/d/1Minq_LIKzWCJzIhnN9NKLFypkrdET3X5hO96aDvFxdE/edit#gid=0
+Useful ways of solving algo problems: https://www.notion.so/Algorithms-28c4a6ed306e46dd8843fe7999e54c57 
