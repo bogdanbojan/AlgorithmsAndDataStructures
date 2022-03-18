@@ -19,10 +19,8 @@ public class DepthFirstSearch {
         while (!stack.isEmpty())
         {
             int v = stack.pop();
-            if (!explored[v])
-            {
-                explored[v] = true;
-            }
+            if (!explored[v]) explored[v] = true;
+
             for (int i=0; i < adjList.get(v).size(); i++)
             {
                 int w = adjList.get(v).get(i);
